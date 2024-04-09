@@ -10,7 +10,7 @@
         {
             "key": "redirect_url",
             "label": "SmartOpen Url",
-            "default_value": "https://openanytime.mainstreetcu.ca",
+            "default_value": "https://ms-uat.mobetize.com",
             "data_type": "string",
             "editor_role": "content_editor"
         },
